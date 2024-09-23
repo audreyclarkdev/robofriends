@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Robofriends
+
+![Image](https://github.com/user-attachments/assets/849cd26e-3689-4346-9324-5959354c74bc)
+
+## Search Function: 
+![Image](https://github.com/user-attachments/assets/dc1b95fd-194b-4003-a170-60e7b8859068)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
